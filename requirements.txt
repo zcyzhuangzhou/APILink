@@ -1,0 +1,7 @@
+nltk
+sekg
+beautifulsoup4
+fastText
+jsonlines
+gensim>=3.8
+javalang
